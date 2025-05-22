@@ -1,9 +1,3 @@
-//
-//  troca_aiApp.swift
-//  troca_ai
-//
-//  Created by luan on 13/05/25.
-//
 
 import SwiftUI
 
