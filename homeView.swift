@@ -1,16 +1,3 @@
-//
-//  homeView.swift
-//  troca_ai
-//
-//  Created by luan on 13/05/25.
-//
-
-//
-//  ContentView.swift
-//  Troca ai
-//
-//  Created by Turma02-24 on 13/05/25.
-//
 
 import SwiftUI
 
