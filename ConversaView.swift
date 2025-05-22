@@ -1,9 +1,3 @@
-//
-//  ConversaView.swift
-//  troca_ai
-//
-//  Created by luan on 21/05/25.
-//
 
 import SwiftUI
 
