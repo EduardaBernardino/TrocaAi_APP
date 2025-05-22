@@ -1,9 +1,3 @@
-//
-//  AnuncioView.swift
-//  troca_ai
-//
-//  Created by luan on 20/05/25.
-//
 
 import Foundation
 import SwiftUI
